@@ -1,3 +1,6 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
 .login-card {
     width: 300px;
     margin: 0 auto;
@@ -63,6 +66,5 @@
   
   #signup {
     position: absolute;
-    left: 75px;
+    left: 55px;
   }
-  
